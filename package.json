@@ -1,0 +1,1 @@
+{"description":"The funniest one-line excuse an AI agent gives after failing a task — make.fun bounty entry","license":"MIT","main":"main.ts","name":"the-funniest-ai-excuse","scripts":{"start":"node --experimental-strip-types main.ts"},"type":"module","version":"1.0.0"}
